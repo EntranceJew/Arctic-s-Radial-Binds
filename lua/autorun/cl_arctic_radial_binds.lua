@@ -44,7 +44,7 @@ ArcticRadialBinds = {
 }
 
 ArcticRadialBinds_Materials = {} -- ["mat/path/mat"] = Material("mat/path/mat")
-// save and load to file
+-- save and load to file
 
 ArcticRadialBinds_SelectedMenu = 1
 ArcticRadialBinds_Selection = 0
